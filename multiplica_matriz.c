@@ -22,7 +22,7 @@ int main() {
             scanf("%f", &matriz2[i][j]);
         }
     }
-    printf("alalalalala");
+    printf("oioioioioi");
 
     //Printa as duas matrizes:
     printf("\n\nMatriz 1:\n");
